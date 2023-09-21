@@ -1,0 +1,17 @@
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Data.deps.json
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Data.runtimeconfig.json
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Data.dll
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Data.pdb
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Core.dll
+G:\AutoMapper\AutoMapper.Data\bin\Debug\net6.0\AutoMapper.Core.pdb
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.csproj.AssemblyReference.cache
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.AssemblyInfoInputs.cache
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.AssemblyInfo.cs
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.csproj.CoreCompileInputs.cache
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.csproj.CopyComplete
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.dll
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\refint\AutoMapper.Data.dll
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.pdb
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\AutoMapper.Data.genruntimeconfig.cache
+G:\AutoMapper\AutoMapper.Data\obj\Debug\net6.0\ref\AutoMapper.Data.dll

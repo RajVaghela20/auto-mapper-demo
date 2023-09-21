@@ -1,0 +1,17 @@
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Service.deps.json
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Service.dll
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Service.pdb
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Core.dll
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Data.dll
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Core.pdb
+G:\AutoMapper\AutoMapper.Service\bin\Debug\net6.0\AutoMapper.Data.pdb
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.csproj.AssemblyReference.cache
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.AssemblyInfoInputs.cache
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.AssemblyInfo.cs
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.csproj.CoreCompileInputs.cache
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.csproj.CopyComplete
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.dll
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\refint\AutoMapper.Service.dll
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\AutoMapper.Service.pdb
+G:\AutoMapper\AutoMapper.Service\obj\Debug\net6.0\ref\AutoMapper.Service.dll
